@@ -1,9 +1,9 @@
 {
-    "authors": [ "GuardRex" ],
+    "authors": [ "GuardRex Corporation" ],
     "buildOptions": {
         "warningsAsErrors": true
     },
-    "copyright": "Copyright 2016 GuardRex Corporation. All Rights Reserved.",
+    "copyright": "Copyright 2016 GuardRex Corporation",
     "dependencies": {
         "Microsoft.AspNetCore.Hosting": "1.0.0",
         "Microsoft.AspNetCore.Mvc.Razor": "1.0.0",
@@ -14,8 +14,6 @@
         "netstandard1.6": {}
     },
     "packOptions": {
-        "summary": "MVC Razor Tag Helper that inlines stylesheets and scripts into HTML markup.",
-        "owners": [ "GuardRex" ],
         "tags": [
             "stylesheet",
             "script",
