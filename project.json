@@ -22,6 +22,7 @@
         "iconUrl": "https://rexsite.azureedge.net/www-guardrex-com/nugetlogo.png",
         "licenseUrl": "https://github.com/GuardRex/GuardRex.StyleScriptInliningTagHelper/blob/master/LICENSE.md",
         "repository": {
+            "type": "git",
             "url": "https://github.com/GuardRex/GuardRex.StyleScriptInliningTagHelper"
         }
     },
